@@ -1,0 +1,9 @@
+appdirs==1.4.3
+Django==1.10.6
+django-dashing==0.3.3
+gunicorn==19.7.1
+packaging==16.8
+psycopg-postgis2==0.0.2
+psycopg2==2.6.2
+pyparsing==2.2.0
+six==1.10.0
